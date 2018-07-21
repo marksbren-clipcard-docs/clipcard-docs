@@ -2,7 +2,7 @@
 
 Clipcards easily works with most spreadsheet programs. Just use your favorite spreadsheet program to fill in the vocabulary you want to turn into flashcards, copy the spreadsheet cells, and paste them to the Clipcards Create Flashcards page. Clipcards will automatically create the flashcards for you.
 
-![clipcard spreadsheet diagram](https://octodex.github.com/images/yaktocat.png)
+![clipcard spreadsheet diagram](/Clipcards%20Spreadsheet%20Diagram.png)
 Clipcards work with the following spreadsheet format:
 1. **Learning Language (required)**
 2. Pronounciation (optional)
