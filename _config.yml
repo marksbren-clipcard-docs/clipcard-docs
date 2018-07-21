@@ -22,7 +22,7 @@ url: "http://blog.clipcards.co" # the base hostname & protocol for your site, e.
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
