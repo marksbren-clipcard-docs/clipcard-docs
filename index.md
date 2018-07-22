@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 # How to use Clipcards
@@ -23,9 +20,9 @@ If you are making Clipcards that only require the learning language and the lang
 ## Sample spreadsheet for an English-speaker learning Spanish:
 ![learning spanish example](/spanish-example.png)
 
-The most basic language learning spreadsheet would only have 2 columns. The left column is the language you are learning and the right column should be the language you know. You can see a sample Spanish spreadsheet [here](https://docs.google.com/spreadsheets/d/1HmpwskKILdQWSs8GHoQ1FAPGu80at_nj90Ctqg_gs9U/edit?usp=sharing).
+The most basic language learning spreadsheet would only have 2 columns. The left column is the language you are learning and the right column should be the language you know. You can see a sample Spanish spreadsheet [here](https://docs.google.com/spreadsheets/d/1HmpwskKILdQWSs8GHoQ1FAPGu80at_nj90Ctqg_gs9U/edit?usp=sharing){:target="_blank"}.
 
 ## Sample spreadsheet for a Chinese-speaker learning english from a Youtube Video:
 ![learning english example](/english-example.png)
 
-This example includes a Youtube video. Each row in the spreadsheet has 4 columns. Learning language, known language, timestamp in the video (in seconds), and a link to the video. You can see a sample English spreadsheet with Youtube video [here](https://docs.google.com/spreadsheets/d/1DBz6FHZ0Xt_hEuxcyRTB9t9zf0A2Cs7_YXraY-5yX0c/edit?usp=sharing).
+This example includes a Youtube video. Each row in the spreadsheet has 4 columns. Learning language, known language, timestamp in the video (in seconds), and a link to the video. You can see a sample English spreadsheet with Youtube video [here](https://docs.google.com/spreadsheets/d/1DBz6FHZ0Xt_hEuxcyRTB9t9zf0A2Cs7_YXraY-5yX0c/edit?usp=sharing){:target="_blank"}.
